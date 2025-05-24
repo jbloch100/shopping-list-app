@@ -3,7 +3,7 @@
 A responsive shopping list app using React + TypeScript with Context API for global state. It reflects modern state management and minimalist UI logic in everyday applications.
 
 ## Live Demo
-[https://shopping-list.vercel.app](https://shopping-list.vercel.app) *(placeholder)*
+[https://shopping-list.vercel.app](https://shopping-list-app-woad.vercel.app/)
 
 ## Features
 - Add and remove items from list
